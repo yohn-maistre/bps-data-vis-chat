@@ -1,0 +1,6 @@
+[theme]
+primaryColor="#D2946E"
+backgroundColor="#dbcfb8"
+
+[server]
+maxUploadSize = 30
