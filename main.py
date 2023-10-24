@@ -21,7 +21,7 @@ st.sidebar.markdown('<a style="text-align: center;padding-top: 0rem;" href="mail
 st.sidebar.markdown("<h4 style='text-align: center;font-size:small;color:grey;padding-top: 0rem;padding-bottom: .2rem;'>Made with ❤️ \
                     by Yose Marthin Giyay</h4>", unsafe_allow_html=True)
 
-st.sidebar.caption("Silakan masukan token OpenAI atau HuggingFace di kolom di bawah ini. (https://doi.org/10.1109/ACCESS.2023.3274199)")
+st.sidebar.caption("Silakan masukan token OpenAI atau HuggingFace di kolom di bawah ini. *Pilih model Code Llama jika hanya menggunakan HuggingFace*")
 
 available_models = {"ChatGPT-4": "gpt-4","ChatGPT-3.5": "gpt-3.5-turbo","GPT-3": "text-davinci-003",
                         "GPT-3.5 Instruct": "gpt-3.5-turbo-instruct","Code Llama":"CodeLlama-34b-Instruct-hf"}
