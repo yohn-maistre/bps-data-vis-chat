@@ -3,5 +3,5 @@ numpy
 matplotlib
 streamlit
 openai
-langchain=
+langchain
 huggingface-hub
